@@ -1,0 +1,5 @@
+# sdcv
+*.oft
+
+# Misc
+.DS_Store
